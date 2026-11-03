@@ -1,20 +1,20 @@
 <div align="center">
 
   # Hi, I'm Ameesh 👋
-  ### 🚀 AI Engineer | Full Stack Developer
+  ### 🚀 AI Engineer
 
   <p align="center">
     <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Building+Next-Gen+AI+Systems;Specialized+in+LLMs+%26+Autonomous+Agents;Full-Stack+Architect;Crafting+Production-Ready+Software" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+Agentic+AI+Systems;Specialized+in+LLMs+and+Multi+Agent+Systems;RAG+and+Model+Context+Protocol;Crafting+Production+Ready+AI+Solutions" alt="Typing SVG" />
     </a>
   </p>
 
   <p align="center">
-    Passionate about bridging cutting-edge Artificial Intelligence with resilient software architecture.<br />
-    Focused on Agentic Workflows, Model Context Protocol (MCP), and building intelligent tools that solve real-world problems.
+    Passionate about building resilient Artificial Intelligence systems.<br />
+    Focused on Agentic Workflows, Model Context Protocol (MCP), and building intelligent tools that solve real world problems.
   </p>
 
-  ---
+  <hr />
 
   ### 🌐 Connect With Me
 
@@ -36,7 +36,7 @@
 
 <br />
 
----
+<hr />
 
 ### 🛠️ Tech Stack
 
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/badge/HNSW-6D28D9?style=for-the-badge&logoColor=white" alt="HNSW" />
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+    <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
     &nbsp;
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     &nbsp;
@@ -113,7 +113,7 @@
 
 <br />
 
----
+<hr />
 
 ### 🌟 Featured Projects
 
@@ -122,7 +122,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📰 SmartNewsSynthesizer</h3>
       <p align="center">
-        An AI-powered multi-stream news synthesis engine that monitors, deduplicates, and extracts critical takeaways from global sources in real time using NLP & LLM pipelines.
+        An AI powered multi stream news synthesis engine that monitors, deduplicates, and extracts critical takeaways from global sources in real time using NLP and LLM pipelines.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -136,10 +136,10 @@
     <td width="50%" valign="top">
       <h3 align="center">💬 Fora AI</h3>
       <p align="center">
-        Collaborative intelligence and multi-agent debate platform designed to brainstorm, deliberate, and solve complex problems autonomously across domain-specialized AI personas.
+        Collaborative intelligence and multi agent debate platform designed to brainstorm, deliberate, and solve complex problems autonomously across domain specialized AI personas.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Multi--Agent-FF6F00?style=flat-square&logo=diagram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Multi%20Agent-FF6F00?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       </p>
@@ -151,11 +151,14 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛡️ SentinelMCP</h3>
-      <p align="center">
-        A secure Model Context Protocol (MCP) server providing active monitoring, runtime guardrails, context validation, and automated safety policies for LLM tools and agent runners.
+      <p align="left">
+        • <b>Safety Guard</b>: It sits between AI agents and your systems (databases, cloud, accounts) as a security filter.<br />
+        • <b>Threat Blocker</b>: It automatically blocks prompt injection attacks and unauthorized commands based on agent roles.<br />
+        • <b>Human Approval</b>: It pauses risky actions so a person can review, deny, or safely edit them before execution.<br />
+        • <b>Emergency Stop</b>: It provides an instant kill switch to freeze all agent activity if anything goes wrong.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/MCP-Protocol-0284C7?style=flat-square&logo=codeforces&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-Protocol-0284C7?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Security-22C55E?style=flat-square&logo=shield&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
@@ -165,13 +168,16 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">👁️ Vigil AI</h3>
-      <p align="center">
-        Intelligent computer vision and video analysis agent designed for real-time anomaly detection, automated surveillance telemetry, and instant threat alerting.
+      <p align="left">
+        • <b>Searches FDA Reports</b>: You type in any medicine, and Vigil AI scans millions of real world FDA hospital and patient side effect reports.<br />
+        • <b>Calculates Real Statistics</b>: It runs mathematical formulas to check if a dangerous reaction occurs unusually often without letting the AI guess or invent numbers.<br />
+        • <b>Flags Unlisted Risks</b>: It reads the official FDA warning label to see if the side effect is already known, or if it is a new, hidden safety signal.<br />
+        • <b>Delivers Verified Findings</b>: It pulls supporting medical research papers from PubMed and writes an evidence backed safety report for human doctors to review.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Edge_AI-4338CA?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/FDA%20Analytics-5C3EE8?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/PubMed-205493?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Medical%20AI-4338CA?style=flat-square&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/ameeshmith/vigil-ai"><b>View Project ➜</b></a>
@@ -182,7 +188,7 @@
 
 <br />
 
----
+<hr />
 
 ### 📊 GitHub Statistics
 
@@ -200,7 +206,7 @@
 
 <br />
 
----
+<hr />
 
 ### 📈 Activity & Contribution Graph
 
@@ -213,4 +219,3 @@
 <div align="center">
   <sub>Designed with ❤️ by <a href="https://github.com/ameeshmith">Ameesh</a></sub>
 </div>
-
