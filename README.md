@@ -9,11 +9,6 @@
     </a>
   </p>
 
-  <p align="center">
-    Passionate about building resilient Artificial Intelligence systems.<br />
-    Focused on Agentic Workflows, Model Context Protocol (MCP), and building intelligent tools that solve real world problems.
-  </p>
-
   <hr />
 
   ### 🌐 Connect With Me
