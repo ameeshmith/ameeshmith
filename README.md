@@ -8,6 +8,10 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+Agentic+AI+Systems;Specialized+in+LLMs+and+Multi+Agent+Systems;RAG+and+Model+Context+Protocol;Crafting+Production+Ready+AI+Solutions" alt="Typing SVG" />
     </a>
   </p>
+  <p align="center">
+    Passionate about building resilient Artificial Intelligence systems.<br />
+    Focused on Agentic Workflows, Model Context Protocol (MCP), and building intelligent tools that solve real world problems.
+  </p>
 
   <hr />
 
