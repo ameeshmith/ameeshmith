@@ -120,8 +120,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📰 SmartNewsSynthesizer</h3>
-      <p align="center">
-        An AI powered multi stream news synthesis engine that monitors, deduplicates, and extracts critical takeaways from global sources in real time using NLP and LLM pipelines.
+      <p align="left">
+        • <b>Live Aggregation</b>: Collects real time breaking stories and news streams across any topic, city, or question.<br />
+        • <b>Smart Summaries</b>: Distills long articles into quick, easy to read summaries with clickable source links.<br />
+        • <b>Fact Verification</b>: Evaluates stories with AI to alert you if a claim is verified, disputed, or likely fake.<br />
+        • <b>Interactive Assistant</b>: Built in AI chat to ask follow up questions and receive instant, grounded answers.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -134,8 +137,11 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💬 Fora AI</h3>
-      <p align="center">
-        Collaborative intelligence and multi agent debate platform designed to brainstorm, deliberate, and solve complex problems autonomously across domain specialized AI personas.
+      <p align="left">
+        • <b>Deep Topic Prompts</b>: Initiates research workflows from any complex question or current events query.<br />
+        • <b>Autonomous Web Browsing</b>: AI agents search the live internet, read full articles, and discard noisy blogs.<br />
+        • <b>Self Auditing Loop</b>: Auditor agents spot contradictions and loop back to find missing proof autonomously.<br />
+        • <b>Verified Reports</b>: Synthesizes executive summaries where every claim has 100% genuine, clickable citations.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Multi%20Agent-FF6F00?style=flat-square&logoColor=white" />
