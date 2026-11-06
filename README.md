@@ -185,7 +185,7 @@
         <img src="https://img.shields.io/badge/Medical%20AI-4338CA?style=flat-square&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/ameeshmith/vigil-ai"><b>View Project ➜</b></a>
+        <a href="https://github.com/ameeshmith/Vigil"><b>View Project ➜</b></a>
       </p>
     </td>
   </tr>
